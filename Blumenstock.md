@@ -1,1 +1,1 @@
-ok
+Blumenstock response
