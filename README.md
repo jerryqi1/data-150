@@ -6,6 +6,7 @@
 2.  [Blumenstock respose](Blumenstock.html)
 3.  [Owen Barder response](Owen Barder.html)
 4.  [9.28 class essay](928classessay.html)
+5.  [9.30 class essay](930classessay.html)
 
 ### Assignments
 
