@@ -79,4 +79,4 @@ Mapping the burnt area is also an important step to study details of the forest 
 
 Throughout the whole passage, the authors tried to find out how to assess the damage of the forest fire in the most effective way. Based on these data, state administrators can make a long term recovery plan. 
 
-In the process of human development, people must value the importance of disaster management because it makes a huge difference if these problems are not solved properly. Investigating how to deal with the nature is a great part of human development
+In the process of human development, people must value the importance of disaster management because it makes a huge difference if these problems are not solved properly. Investigating how to deal with the nature is a great part of human development.
