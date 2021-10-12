@@ -8,6 +8,7 @@
 4.  [9.28 class essay](928classessay.html)
 5.  [9.30 class essay](930classessay.html)
 6.  [10.07 class essay](1007classessay.html)
+7.  [10.12 class essay](1012classessay.html)
 ### Assignments
 
 1.  [Annotated bibliography](Annotated bibliography.html)
