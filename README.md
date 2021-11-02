@@ -11,6 +11,7 @@
 7.  [10.12 class essay](1012classessay.html)
 8.  [10.21 class essay](1021classessay.html)
 9.  [10.28 class essay](1028classessay.html)
+10. [11.02 class essay](1102classessay.html)
 
 ### Assignments
 
