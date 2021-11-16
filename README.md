@@ -15,6 +15,7 @@
 11. [11.04 class essay](1104classessay.html)
 12. [11.09 class essay](1109classessay.html)
 13. [11.11 class essay](1111classessay.html)
+14. [11.16 class essay](1116classessay.html)
 
 ### Assignments
 
