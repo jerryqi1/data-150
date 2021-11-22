@@ -21,3 +21,4 @@
 
 1.  [Annotated bibliography](Annotated bibliography.html)
 2.  [Literature review](Literature review.html)
+3.  [Methodological investigation](Methodological investigation.docx)
