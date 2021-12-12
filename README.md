@@ -24,3 +24,4 @@
 3.  [Methodological investigation](Methodological investigation.docx)
 4.  [Presentation](Presentation.html)
 5.  [Presentation slide](Presentation slide.html)
+6.  [Final Research Proposal](Research Proposal.html)
